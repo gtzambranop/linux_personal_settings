@@ -56,3 +56,14 @@
 	```
 	sudo apt-get install gconf-gsettings-backend
 	```
+
+11. **Pandoc**
+
+	```
+	sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+	```
+	
+	```
+	pandoc text.md -o text.pdf
+	```
+

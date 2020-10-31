@@ -5,7 +5,7 @@
 * git graph
 * Better comments
 * Markdown Preview Enhanced
-* Ident-rainbow
+* Indent-rainbow
 * Trailing Spaces
 * Markdown All in One
 * Markdown PDF
